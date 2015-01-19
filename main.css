@@ -1,6 +1,8 @@
 a {
 	text-decoration: none;
 	color: #666;
+	font-family: arial, sans-serif;
+	font-size: 13px;
 }
 
 body {
@@ -15,6 +17,8 @@ ul {
 .top-right li {
 	display: inline;
 	color: #666;
+	font-family: arial, sans-serif;
+	font-size: 13px;
 }
 
 .top-right {
@@ -76,4 +80,8 @@ h1 {
 .buttons [type="submit"] {
 	border-top-style: outset;
 	background-color: buttonface;
+}
+
+#test {
+	height: 20px;
 }
