@@ -1,0 +1,79 @@
+a {
+	text-decoration: none;
+	color: #666;
+}
+
+body {
+	padding: 0;
+	margin: 0;
+}
+
+ul {
+	list-style: none;
+}
+
+.top-right li {
+	display: inline;
+	color: #666;
+}
+
+.top-right {
+	text-align: right;
+	word-spacing: 20px;
+	margin-right: 10px;	
+}
+
+.top-right ul {
+	margin-top: 0;
+}
+
+.bottom-right a {
+	text-align: right;
+}
+
+.bottom-bar .right {
+	float: right;
+}
+
+.bottom-bar {
+	word-spacing: 20px;
+}
+
+h1 {
+	text-align: center;
+}
+
+.search {
+	text-align: center;
+}
+
+.logo {
+	height: 95px;
+	width: 269px;
+	margin-left: 340px;
+	margin-top: 150px;
+}
+
+.buttons {
+	text-align: center;
+	padding: 20px;
+}
+
+.footer {
+	background-color: #f2f2f2;
+	padding: 10px;
+	margin-top: 200px;
+}
+
+.profile-picture {
+	width: 35px;
+	height: 35px;
+	border-radius: 100%;
+	position: relative;
+	top: 10px;
+}
+
+.buttons [type="submit"] {
+	border-top-style: outset;
+	background-color: buttonface;
+}
